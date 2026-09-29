@@ -1,0 +1,7 @@
+python-jobspy
+pandas
+scikit-learn
+geopy
+requests
+ipykernel
+dotenv
